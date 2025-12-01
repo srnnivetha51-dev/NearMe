@@ -29,6 +29,7 @@ Execute the programs and publish them.
 
 ## CODE
 ```
+map.html
 <html>
     <body>
         <h1 align="center"><font color="red">Chennai-Velachery</font></h1>
@@ -45,11 +46,78 @@ Execute the programs and publish them.
     </body>
 </html>
 
+Instore.html
+<html>
+    <body bgcolor="purple">
+        <h1 align="center">Chennai-Velachery</h1>
+        <br>
+        <h2 align="center">S.R.NIVEDHITHA (25000724)</h2>
+        <hr>
+        <h2 align="center">INSTORE</h2>
+        <h3>Instore, Anna nagarInstore is a women's fashion brand founded in 2005 that offers affordable, designer, and sustainable clothing, including kurtis, ethnic wear, and children's fashion.</h3>
+    </body>
+</html>
+
+nestle.html
+<html>
+     <body bgcolor="lightblue">
+        <h1 align="center">Chennai-Velachery</h1>
+        <br>
+        <h2 align="center">S.R.NIVEDHITHA (25000724)</h2>
+        <hr>
+        <h2 align="center">Nestle</h2>
+        <h3>Nestlé is the world's largest food and beverage company, headquartered in Vevey, Switzerland, with a purpose of "unlocking the power of food to enhance quality of life for everyone, today and for generations to come"</h3>
+    </body>
+</html>
+
+westein.html
+<html>
+     <body bgcolor="lightblue">
+        <h1 align="center">Chennai-Velachery</h1>
+        <br>
+        <h2 align="center">S.R.NIVEDHITHA (25000724)</h2>
+        <hr>
+        <h2 align="center">Nestle</h2>
+        <h3>Nestlé is the world's largest food and beverage company, headquartered in Vevey, Switzerland, with a purpose of "unlocking the power of food to enhance quality of life for everyone, today and for generations to come"</h3>
+    </body>
+</html>
+
+dmart.html
+<html>
+     <body bgcolor="cyan">
+        <h1 align="center">Chennai-Velachery</h1>
+        <br>
+        <h2 align="center">S.R.NIVEDHITHA (25000724)</h2>
+        <hr>
+        <h2 align="center">Dmart</h2>
+        <h3>DMart Velachery is a large, multi-floor supermarket offering a wide range of products like groceries, clothing, and home essentials at competitive prices, with ample parking available</h3>
+
+    </body>
+</html>
+
+maybell.html
+<html>
+     <body bgcolor="light green">
+        <h1 align="center">Chennai-Velachery</h1>
+        <br>
+        <h2 align="center">S.R.NIVEDHITHA (25000724)</h2>
+        <hr>
+        <h2 align="center">MAYBELL</h2>
+        
+        <h3>Maybell is a women's fashion store in Velachery, Chennai, that offers contemporary and ethnic women's wear like kurtas and skirt sets at affordable prices</h3>
+
+    </body>
+</html>
+
 ```
 
 ## OUTPUT
 ![alt text](<Screenshot 2025-11-29 113927.png>)
-
+![alt text](<Screenshot 2025-11-30 110712.png>)
+![alt text](<Screenshot 2025-11-30 111059.png>)
+![alt text](<Screenshot 2025-11-30 111157.png>)
+![alt text](<Screenshot 2025-11-30 110804.png>)
+![alt text](<Screenshot 2025-11-30 110952.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
